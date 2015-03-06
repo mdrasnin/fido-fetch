@@ -8,14 +8,14 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503  
+  primary: 0288D1
+  secondary: 00C853
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
+- name: Ethan Goldman-Kirst
+  pic: Ethan
   position: Lead Designer
   social:
     - title: twitter
@@ -25,8 +25,20 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
-  pic: 2
+- name: Megan Drasnin
+  pic: Megan
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+      
+
+- name: Isaac Kuek
+  pic: Isaac
   position: Lead Marketer
   social:
     - title: twitter
@@ -36,8 +48,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
-  pic: 3
+
+- name: Micky Tolliver
+  pic: Micky
   position: Lead Developer
   social:
     - title: twitter
