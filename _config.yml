@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: "http://127.0.0.1"
+baseurl: ""
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: FidoFetch
+email: fidofetch@mailinator.com
+description: "An Augmented Reality HoloLens application for better dog training and consistency."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
